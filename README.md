@@ -28,7 +28,7 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 [SAMRAT GHOSH](https://github.com/Samratghosh2004)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [DEBANSHU CHATTERJEE](https://github.com/Dev7478) 
 
 
