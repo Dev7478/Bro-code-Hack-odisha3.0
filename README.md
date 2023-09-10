@@ -11,11 +11,19 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 
 
 ## Authors
+<div id="container">
+  <img src="contributor/Arnab Sarkar.jpg" width="200px" class="contributors" style="" > 
+<!--   [ARNAB SARKAR](https://github.com/arnab236) -->
+  <img src="contributor/Samrat Ghosh.jpeg" class="contributors" height="200px" style="margin-left: 50px"> 
+<!--  [SAMRAT GHOSH](https://github.com/Samratghosh2004) -->
+  <img src="contributor/Dhrubajyoti Ghosh.jpeg" width="200px" class="contributors" style="margin-left: 10px"> 
+<!--  [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) -->
+  <img src="contributor/Debanshu Chatterjee.jpeg" width="200px" class="contributors" style="margin-left: 10px"> 
+<!--  [DEBANSHU CHATTERJEE](https://github.com/Dev7478) -->
+</div>
 
-- [ARNAB SARKAR](https://github.com/arnab236)
-- [SAMRAT GHOSH](https://github.com/Samratghosh2004)
-- [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274)
-- [DEBANSHU CHATTERJEE](https://github.com/Dev7478)
+
+ 
 
 
 ## Deployment
