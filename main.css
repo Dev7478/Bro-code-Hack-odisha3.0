@@ -14,6 +14,14 @@
     --font-manrope: 'Manrope', sans-serif;;
     --transition: all 300ms ease-in-out;
 }
+::-webkit-scrollbar{
+    background-color: var(--clr-bright);
+}
+::-webkit-scrollbar-thumb{
+    background-color: var(--clr-blue);
+    border-radius: 20px;
+    height: 50px;
+}
 
 *{
     padding: 0;
