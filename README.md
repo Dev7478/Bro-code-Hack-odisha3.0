@@ -12,13 +12,13 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 
 ## Authors
 <div class="container">
-  <img src="contributor/Arnab Sarkar.jpg" width="200px" class="contributors" > 
+  <img src="contributor/Arnab Sarkar.jpg" width="20%" class="contributors" > 
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="contributor/Samrat Ghosh.jpeg" class="contributors" height="200px" > 
+  <img src="contributor/Samrat Ghosh.jpeg" class="contributors" width="19%" > 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="contributor/Dhrubajyoti Ghosh.jpeg" width="200px" class="contributors" > 
+  <img src="contributor/Dhrubajyoti Ghosh.jpeg" width="20%" class="contributors" > 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="contributor/Debanshu Chatterjee.jpeg" width="200px" class="contributors" > 
+  <img src="contributor/Debanshu Chatterjee.jpeg" width="20%" class="contributors" > 
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
