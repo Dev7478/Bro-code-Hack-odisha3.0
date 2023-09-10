@@ -11,19 +11,26 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 
 
 ## Authors
-<div id="container">
-  <img src="contributor/Arnab Sarkar.jpg" width="200px" class="contributors" style="" > 
-<!--   [ARNAB SARKAR](https://github.com/arnab236) -->
-  <img src="contributor/Samrat Ghosh.jpeg" class="contributors" height="200px" style="margin-left: 50px"> 
-<!--  [SAMRAT GHOSH](https://github.com/Samratghosh2004) -->
-  <img src="contributor/Dhrubajyoti Ghosh.jpeg" width="200px" class="contributors" style="margin-left: 10px"> 
-<!--  [DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) -->
-  <img src="contributor/Debanshu Chatterjee.jpeg" width="200px" class="contributors" style="margin-left: 10px"> 
-<!--  [DEBANSHU CHATTERJEE](https://github.com/Dev7478) -->
+<div class="container">
+  <img src="contributor/Arnab Sarkar.jpg" width="200px" class="contributors" > 
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="contributor/Samrat Ghosh.jpeg" class="contributors" height="200px" > 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="contributor/Dhrubajyoti Ghosh.jpeg" width="200px" class="contributors" > 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="contributor/Debanshu Chatterjee.jpeg" width="200px" class="contributors" > 
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 </div>
 
+&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 
+[ARNAB SARKAR](https://github.com/arnab236)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[SAMRAT GHOSH](https://github.com/Samratghosh2004)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[DHRUBAJYOTI GHOSH](https://github.com/Dhruba274) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+[DEBANSHU CHATTERJEE](https://github.com/Dev7478) 
 
- 
 
 
 ## Deployment
@@ -31,6 +38,6 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 To deploy this project run
 
 ```bash
-  https://cv-builder-bro-code.netlify.app/
+  https://brocode-cv-builder.netlify.app
 ```
 
