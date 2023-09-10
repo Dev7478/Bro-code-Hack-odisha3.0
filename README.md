@@ -1,6 +1,8 @@
 
 # CV Builder web
 
+  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;  <img src="assets/icon.jpeg">
+
 The CV Builder Web Page is a user-friendly tool that allows individuals to create professional and visually appealing resumes (CVs) online. With this web application, users can easily input their personal information, education, work experience, skills, and more to generate a well-structured CV. This README file provides essential information for developers and users interested in the CV Builder project hosted on GitHub.
 
 
