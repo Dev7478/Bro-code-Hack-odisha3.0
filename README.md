@@ -40,6 +40,6 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 To deploy this project run
 
 ```bash
-
+https://bro-code-hack-odisha3-0.vercel.app/
 ```
 
