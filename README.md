@@ -40,6 +40,6 @@ https://github.com/Dev7478/Bro-code-Hack-odisha3.0.git
 To deploy this project run
 
 ```bash
-  https://brocode-cv-builder.netlify.app
+
 ```
 
